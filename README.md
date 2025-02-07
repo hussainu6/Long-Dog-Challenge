@@ -12,7 +12,7 @@ Welcome to the Long Doge Challenge – a fun, quirky, and slightly pointless web
 =======
 
 
->>>>>>> 0fb0c33 (Initial commit 🚀)
+>>>>>>> 
 🎯 How to Play
 1️⃣ Open the page.
 2️⃣ Scroll.
@@ -46,5 +46,4 @@ Inspired by the eternal charm of Doge 🐕.
 Made with love, countless wows, and fueled by internet randomness. ❤️
 
 "Much Code. So Wow. Very Challenge. Such Doge." ✨
-=======
->>>>>>> 0fb0c33 (Initial commit 🚀)
+
