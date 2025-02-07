@@ -8,6 +8,11 @@ Welcome to the Long Doge Challenge – a fun, quirky, and slightly pointless web
 🌈 Secret Wows: Hidden surprises await those who click around. Can you find them all?
 🖨️ Print Your Doge: Feel proud? Print your Doge and hang it on your wall. (Yes, really.)
 📱 Mobile-Friendly: Play on any device, anywhere, anytime.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 0fb0c33 (Initial commit 🚀)
 🎯 How to Play
 1️⃣ Open the page.
 2️⃣ Scroll.
@@ -29,6 +34,7 @@ Welcome to the Long Doge Challenge – a fun, quirky, and slightly pointless web
 3️⃣ Commit your changes (git commit -m 'Add new wow')
 4️⃣ Push to the branch (git push origin feature/new-wow)
 5️⃣ Open a Pull Request 🚀
+<<<<<<< HEAD
 
 Suggestions and improvements are always welcome! 😍
 
@@ -40,3 +46,5 @@ Inspired by the eternal charm of Doge 🐕.
 Made with love, countless wows, and fueled by internet randomness. ❤️
 
 "Much Code. So Wow. Very Challenge. Such Doge." ✨
+=======
+>>>>>>> 0fb0c33 (Initial commit 🚀)
